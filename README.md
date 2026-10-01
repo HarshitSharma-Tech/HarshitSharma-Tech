@@ -10,15 +10,15 @@
 
 ## 🌍 About Me
 
-I'm a third-year B.Tech Computer Science student from India, passionate about building software, solving challenging problems, and exploring emerging technologies.
+I'm a **fourth-year B.Tech Computer Science and Engineering student** from India, passionate about software development, problem-solving, and emerging technologies.
 
-I enjoy developing full-stack applications, practicing Data Structures and Algorithms, and experimenting with AI and Machine Learning to turn ideas into practical solutions.
+I enjoy building full-stack applications, solving Data Structures and Algorithms problems, and exploring Artificial Intelligence and Machine Learning. I love turning ideas into practical solutions and continuously improving my technical skills.
 
 * 🎓 **Education:** B.Tech in Computer Science and Engineering (2023–2027)
 * 💻 **Currently Learning:** Java, Full-Stack Development, and AI
 * 🧠 **Interests:** Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and Software Engineering
-* 🚀 **Goal:** Build impactful projects and grow as a software developer
-* 📧 **Email:** [harshitsharma@example.com](mailto:harshitsharma@example.com)
+* 🚀 **Career Goal:** Grow as a software developer and build impactful technology solutions
+* 📧 **Email:** [111sharmaharshit@gmail.com](mailto:111sharmaharshit@gmail.com)
 * ⚡ **Fun Fact:** When I'm not coding, I enjoy watching web series and exploring new technologies.
 
 ---
@@ -65,7 +65,7 @@ I enjoy developing full-stack applications, practicing Data Structures and Algor
 
 ## 🚀 Featured Projects
 
-* 🔐 **SecureID IAM:** An identity and access management application featuring email OTP, mobile OTP, and TOTP-based multi-factor authentication.
+* 🔐 **SecureID IAM:** An identity and access management application featuring email OTP verification, mobile OTP verification, and TOTP-based multi-factor authentication.
 * 🎬 **Automated Video Dubbing System:** A Python-based application that transcribes and translates video speech into English, generates voiceovers, and produces dubbed videos.
 * 🧠 **AI & ML Projects:** Hands-on projects involving machine learning, computer vision, and predictive modeling.
 * 📊 **HabitCode:** A habit-tracking and coding-consistency platform with progress analytics and LeetCode tracking.
@@ -74,11 +74,11 @@ I enjoy developing full-stack applications, practicing Data Structures and Algor
 
 ## 📈 Coding & Problem Solving
 
-I enjoy strengthening my problem-solving skills through competitive programming and algorithmic challenges.
+I enjoy strengthening my problem-solving skills through competitive programming and algorithmic challenges, continuously practicing Data Structures and Algorithms.
 
 <p align="center">
   <a href="https://leetcode.com/u/harshitsharma2005/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
@@ -94,6 +94,9 @@ I'm always happy to connect with developers, collaborate on projects, and exchan
   </a>
   <a href="https://leetcode.com/u/harshitsharma2005/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="mailto:111sharmaharshit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
