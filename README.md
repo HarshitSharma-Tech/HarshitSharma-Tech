@@ -1,48 +1,104 @@
-<h1 align="center">👋 Hey there, I'm Harshit Sharma!</h1>
+# 👋 Hey there, I'm Harshit Sharma!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Exploring%20the%20digital%20world%20with%20code!;&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Problem+Solver;AI+%26+ML+Enthusiast;Full+Stack+Developer&width=500&height=50&center=true&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
-<h3 align="center">  Problem Solver | Tech Explorer</h3>
+<h3 align="center">💻 Software Developer | Problem Solver | AI & ML Enthusiast</h3>
 
 ---
 
-### 🌍 About Me
+## 🌍 About Me
 
-I’m a - third yearB.Tech student from India, diving into everything tech-related—from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee), I love turning bright ideas into reality, one project at a time!
+I'm a third-year B.Tech Computer Science student from India, passionate about building software, solving challenging problems, and exploring emerging technologies.
 
-- 🔭 Currently on a journey to master the **Java Developer**.
-- 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
-- 📧 Get in touch: **harshitsharma@example.com**
-- ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama—because sometimes, the best debugging instincts come from plot twists!
+I enjoy developing full-stack applications, practicing Data Structures and Algorithms, and experimenting with AI and Machine Learning to turn ideas into practical solutions.
 
-### 🛠️ Tech Stack & Tools I Use
-
-I believe that a developer’s toolkit is never complete—it keeps growing! Here are some of my go-to tools:
-
-| **Programming Languages** | **Frameworks/Libraries** | **Tools** |
-| -------------------------- | ------------------------- | ----------- |
-| ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus) | ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) | ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) |
-| ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap) | ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio) |
-| ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java) |  |  |
+* 🎓 **Education:** B.Tech in Computer Science and Engineering (2023–2027)
+* 💻 **Currently Learning:** Java, Full-Stack Development, and AI
+* 🧠 **Interests:** Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and Software Engineering
+* 🚀 **Goal:** Build impactful projects and grow as a software developer
+* 📧 **Email:** [harshitsharma@example.com](mailto:harshitsharma@example.com)
+* ⚡ **Fun Fact:** When I'm not coding, I enjoy watching web series and exploring new technologies.
 
 ---
 
-### 🔗 Let's Connect
-I’m always excited to connect with like-minded developers and tech enthusiasts!
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+* 🔐 **SecureID IAM:** An identity and access management application featuring email OTP, mobile OTP, and TOTP-based multi-factor authentication.
+* 🎬 **Automated Video Dubbing System:** A Python-based application that transcribes and translates video speech into English, generates voiceovers, and produces dubbed videos.
+* 🧠 **AI & ML Projects:** Hands-on projects involving machine learning, computer vision, and predictive modeling.
+* 📊 **HabitCode:** A habit-tracking and coding-consistency platform with progress analytics and LeetCode tracking.
+
+---
+
+## 📈 Coding & Problem Solving
+
+I enjoy strengthening my problem-solving skills through competitive programming and algorithmic challenges.
+
+<p align="center">
+  <a href="https://leetcode.com/u/harshitsharma2005/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+I'm always happy to connect with developers, collaborate on projects, and exchange ideas about technology.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshitsharma2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/harshitsharma2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Competitive%20Coding-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
-### 💼 Explore My Work
-Curious about what I’ve been up to? Check out my LinkedIn and let's chat about potential collaborations!
+<p align="center">
+  💡 <i>"Consistency, curiosity, and continuous learning are the keys to growth."</i>
+</p>
